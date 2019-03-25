@@ -17,4 +17,5 @@ assignees: ''
 * Link to job description or job description attached  (required)
 * Contact info (could be your nick name in our Wechat group) (required)
 
-You could also apply a tag for your posts, common tags are #mobile, #web, #infra, #devops etc. 
+You could also apply one/many tag(s) for your job, common tags are #mobile, #web, #infra, #devops etc. 
+If you are not sure which tags to apply, please leave it to our programme coordinator; 
